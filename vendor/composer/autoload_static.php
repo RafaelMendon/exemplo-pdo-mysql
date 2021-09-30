@@ -9,12 +9,12 @@ class ComposerStaticInitc85aa00400ae98e171ab6d2364ebcc18
     public static $prefixLengthsPsr4 = array (
         'e' => 
         array (
-            'exemplo-pdo-myaql\\' => 18,
+            'exemplo_pdo_mysql\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'exemplo-pdo-myaql\\' => 
+        'exemplo_pdo_mysql\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

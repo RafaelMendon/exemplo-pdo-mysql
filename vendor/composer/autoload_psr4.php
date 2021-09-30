@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'exemplo-pdo-myaql\\' => array($baseDir . '/src'),
+    'exemplo_pdo_mysql\\' => array($baseDir . '/src'),
 );
